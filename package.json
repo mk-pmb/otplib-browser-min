@@ -1,0 +1,22 @@
+{ "name": "otplib-browser-min",
+  "version": "8.0.1",
+  "description": "Re-packaged `otplib-browser.js` (and …`.map`) from Gerald Yeo's `otplib`.",
+  "keywords": [],
+
+  "author": {
+    "name": "Gerald Yeo",
+    "email": "contact@fusedthought.com"
+  },
+  "homepage": "https://yeojz.github.io/otplib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/otplib-browser-min.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yeojz/otplib/issues"
+  },
+  "contributors": [],
+  "private": false, "license": "MIT",
+  "main": "otplib-browser.js",
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
