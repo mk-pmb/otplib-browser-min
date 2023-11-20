@@ -1,6 +1,6 @@
 { "name": "otplib-browser-min",
-  "version": "8.0.1",
-  "description": "Re-packaged `otplib-browser.js` (and …`.map`) from Gerald Yeo's `otplib`.",
+  "version": "8.0.2",
+  "description": "[deprecated] Re-packaged `otplib-browser.js` (and …`.map`) from Gerald Yeo's `otplib`.",
   "keywords": [],
 
   "author": {
